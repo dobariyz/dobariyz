@@ -1,6 +1,8 @@
 # 💫 About Me:
 
-**About Me**<br><br>🔹 I'm currently working on: FaceFixer — an AI-powered skincare platform where I combine computer vision and full-stack engineering to turn ideas into real, usable products.<br><br>🔹 I'm looking to collaborate on: Full-stack or AI/ML projects that solve real-world problems, especially ones that scale and push technical boundaries.<br><br>🔹 I'm looking for help with: Taking ML systems from prototype to production and building cloud architectures that are fast, reliable, and scalable.<br><br>🔹 I'm currently learning: Advanced cloud engineering, AI model optimization, and system design for high-performance applications.<br><br>🔹 Ask me about: React + Spring Boot development, CI/CD pipelines, cloud deployment, or how to ship end-to-end projects efficiently.<br><br>🔹 Fun fact: I treat debugging like detective work and enjoy turning complex technical puzzles into clean, user-friendly solutions.<br>
+Software Developer with an Advanced Diploma in Software Development and Network Engineering from Sheridan College. Experienced in building full-stack applications using Java, Spring Boot, React, and microservices, with hands-on experience in cloud deployment, CI/CD, and Agile development.
+
+Previously worked as a Software Developer at Samskrita Bharati and currently seeking full-time opportunities in software development or backend engineering roles.
 
 
 ## 🌐 Socials:
