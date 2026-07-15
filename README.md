@@ -1,9 +1,14 @@
 # 💫 About Me:
 
-Software Developer with an Advanced Diploma in Software Development and Network Engineering from Sheridan College. Experienced in building full-stack applications using Java, Spring Boot, React, and microservices, with hands-on experience in cloud deployment, CI/CD, and Agile development.
+Hi, I'm Zeel Dobariya — a Technical Support Engineer with a background in Software Development and Network Engineering from Sheridan College.
 
-Previously worked as a Software Developer at Samskrita Bharati and currently seeking full-time opportunities in software development or backend engineering roles.
+I have experience troubleshooting Microsoft 365, Google Workspace, Windows environments, networking issues, DNS configuration, VPN connectivity, and end-user technical problems. I enjoy solving complex issues, improving user experiences, and helping teams stay productive through reliable technology support.
 
+My software development background allows me to understand applications beyond the user level, with experience building full-stack applications using Java, Spring Boot, React, REST APIs, and cloud technologies.
+
+Currently, I'm exploring opportunities in Technical Support, IT Support, Service Desk, and IT Operations where I can combine my troubleshooting skills, technical knowledge, and passion for technology.
+
+📫 Feel free to connect with me — I'm always happy to collaborate, share knowledge, and build new connections!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zeeldobariya) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Zeel_Dobariya19)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zdobariya10@gmail.com) 
